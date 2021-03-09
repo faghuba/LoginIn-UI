@@ -1,0 +1,52 @@
+body.signin-body {
+    background: #f5fcff;
+}
+
+.container.signin-container {
+    margin-top: 8%;
+}
+
+.card.signin-card {
+    padding: 40px 0px 20px;
+    background: #f4f4f4;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, .5);
+    -webkit-box-shadow: 2px 2px 5px rgba(0, 0, 0, .5);
+    -moz-box-shadow: 2px 2px 5px rgba(0, 0, 0, .5);
+}
+
+img.signin-img {
+    padding: 0 2rem 2rem;
+    margin: auto;
+    display: block;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+form.signin-form {
+    max-width: 350px;
+    margin: auto;
+}
+
+#emailInput, #passwordInput {
+    margin-bottom: 20px;
+}
+button.signin-btn {
+    color: white;
+    background: #39a5af;
+    width: 100%;
+    margin-bottom: 20px;
+    border: none;
+}
+
+a.createAccount {
+    font-size: 1.2rem;
+    text-align: center;
+    justify-content: center;
+    display: block;
+    margin-top: 20px;
+    text-decoration: none;
+}
+a.help {
+    text-decoration: none;
+}
